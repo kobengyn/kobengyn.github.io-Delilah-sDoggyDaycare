@@ -120,6 +120,7 @@ header h1 {
     
     flex: 1; 
     font-size: 48px;
+    margin-left: 90px;
 }
 
 main {
