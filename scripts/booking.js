@@ -3,7 +3,6 @@
 // Do any of these variables need to be initialized when the page is loaded? 
 // When do they need to be reset or updated?
 
-const costperday = document.querySelector("#calculated-cost");
 const numberofdays = document.querySelectorAll(".day-selector li");
 const fullDayButton = document.querySelector("#full");
 const halfDayButton = document.querySelector("#half");
